@@ -1,0 +1,14 @@
+[
+  {
+    "text": "Do homework",
+    "completed": false
+  },
+  {
+    "text": "Go to the gym",
+    "completed": false
+  },
+  {
+    "text": "Clean the room",
+    "completed": false
+  }
+]
